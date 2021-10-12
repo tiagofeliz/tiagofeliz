@@ -1,4 +1,4 @@
-### Hi there, this is Tiago 👋
+### Hi there, this is <a href="https://tiagofeliz.com" target="blank">Tiago</a> 👋
 
 <a href="https://www.linkedin.com/in/tiagofeliz/" target="blank">
   <img src="assets/linkedin.svg" width="21px" alt="LinkedIn" align="left" />
